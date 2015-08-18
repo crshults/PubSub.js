@@ -1,0 +1,34 @@
+* {
+    background-color: black;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+#screen {
+	position: absolute;
+    background-color: gray;
+	overflow: hidden;
+	left: 10%;
+	top: 10%;
+	width: 80%;
+	height: 80%;
+}
+
+#publisher {
+	position: absolute;
+	background-color: red;
+	left: 10%;
+	top: 10%;
+	width: 35%;
+	height: 80%;
+}
+
+#subscriber {
+	position: absolute;
+	background-color: blue;
+	left: 55%;
+	top: 10%;
+	width: 35%;
+	height: 80%;
+}

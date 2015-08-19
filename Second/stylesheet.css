@@ -1,0 +1,43 @@
+* {
+    background-color: black;
+    border: 0 none;
+    margin: 0;
+    padding: 0;
+}
+
+#screen {
+	position: absolute;
+    background-color: gray;
+	overflow: hidden;
+	left: 10%;
+	top: 10%;
+	width: 80%;
+	height: 80%;
+}
+
+#cloud {
+	position: absolute;
+	background-color: white;
+	left: 10%;
+	top: 10%;
+	width: 35%;
+	height: 35%;
+}
+
+#sun {
+	position: absolute;
+	background-color: yellow;
+	left: 10%;
+	top: 55%;
+	width: 35%;
+	height: 35%;
+}
+
+#field {
+	position: absolute;
+	background-color: gray;
+	left: 55%;
+	top: 10%;
+	width: 35%;
+	height: 80%;
+}
